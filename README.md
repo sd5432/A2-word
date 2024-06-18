@@ -1,5 +1,5 @@
 
-[Makedown 基础语法] https://cnfox.github.io/2019/05/21/Makedown-language/
+[Makedown 基础语法]https://cnfox.github.io/2019/05/21/Makedown-language/
 
 <hr>
 # GJSchool專案
