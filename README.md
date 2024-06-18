@@ -24,7 +24,7 @@
 
 ## [文件解說](blog/index.html)
 
-![龍貓圖](pic/1.jpg)
+![龍貓圖](1.jpg)
 
 <ul type="disk">
 <li>台北捷運板南線</li>
